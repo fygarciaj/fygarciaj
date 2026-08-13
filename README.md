@@ -65,7 +65,7 @@ Aquí están algunas de las tecnologías con las que trabajo:
 - 🤖 **IA & ML:** TensorFlow, PyTorch, OpenAI APIs, Computer Vision
 - 🗄️ **Bases de Datos:** PostgreSQL, MySQL, MongoDB, Redis
 - ☁️ **DevOps & Cloud:** Docker, Git, CI/CD, Microservicios
-- 📱 **Mobile:** React Native, Expo
+- 📱 **Mobile:** React Native, Expo, Android Kotlin
 
 ---
 
